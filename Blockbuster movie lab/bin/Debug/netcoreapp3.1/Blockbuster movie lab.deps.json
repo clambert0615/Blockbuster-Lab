@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Blockbuster movie lab/1.0.0": {
+        "runtime": {
+          "Blockbuster movie lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blockbuster movie lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
